@@ -2,7 +2,7 @@
 
 My personal collection of AI configurations and dotfiles.
 
-> [!INFO]
+> [!NOTE]
 > Very experimental - things may change frequently!
 
 ## What's Inside
